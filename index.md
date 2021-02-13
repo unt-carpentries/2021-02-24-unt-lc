@@ -125,8 +125,8 @@ address.
 {% if page.latitude and page.longitude and online == "false" %}
 <p id="where">
   <strong>Where:</strong>
-  {{page.address}}.
-  Virtual on Zoom.
+  {{page.address}}
+ Virtual on Zoom.
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
