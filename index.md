@@ -126,7 +126,7 @@ address.
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}
- Virtual on Zoom.
+Virtual on Zoom.
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
