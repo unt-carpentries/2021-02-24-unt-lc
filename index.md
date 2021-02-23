@@ -126,7 +126,7 @@ address.
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}
-Virtual on Zoom.
+Virtual on Zoom. <a href="https://unt.zoom.us/meeting/register/tZMofuyuqjwsHdbUef-B5gaqalYyQmU_z8Z9">Register here to receive access instructions.</a>
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
